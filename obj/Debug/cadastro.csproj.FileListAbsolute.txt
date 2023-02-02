@@ -1,0 +1,8 @@
+C:\Users\edili\source\repos\cadastro\cadastro\obj\Debug\cadastro.csproj.AssemblyReference.cache
+C:\Users\edili\source\repos\cadastro\cadastro\obj\Debug\cadastro.csproj.SuggestedBindingRedirects.cache
+C:\Users\edili\source\repos\cadastro\cadastro\obj\Debug\cadastro.csproj.CoreCompileInputs.cache
+C:\Users\edili\source\repos\cadastro\cadastro\bin\Debug\cadastro.exe.config
+C:\Users\edili\source\repos\cadastro\cadastro\bin\Debug\cadastro.exe
+C:\Users\edili\source\repos\cadastro\cadastro\bin\Debug\cadastro.pdb
+C:\Users\edili\source\repos\cadastro\cadastro\obj\Debug\cadastro.exe
+C:\Users\edili\source\repos\cadastro\cadastro\obj\Debug\cadastro.pdb
